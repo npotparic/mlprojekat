@@ -1,0 +1,1 @@
+Projekat rađen za završni ispit iz predmeta Osnove mašinskog učenja.
